@@ -6,6 +6,7 @@ and some CSS preprocessors, such as SASS, as well as with JS and TS, and I might
 introduction to Node, Express and possibly Electron for creating apps and backends.
 
 ## Overview over the Lessons
-| Lesson No. | Topic                | Progress  | Reviewed (Language) | Reviewed (Content) |
-|------------|----------------------|-----------|---------------------|--------------------|
-| 1          | Introduction to HTML | 100% (4p.)| 1                   | 0                  | 
+| Lesson No. | Topic                | Progress   | Reviewed (Language) | Reviewed (Content) |
+|------------|----------------------|------------|---------------------|--------------------|
+| 1          | Introduction to HTML | 100% (4p.) | 1                   | 0                  |
+| 2          | Introduction to CSS  | 100% (7p.) | 0                   | 0                  |
